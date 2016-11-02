@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Welcome to Jenkin Demo project!!!" );
         System.out.println( "Welcome to Jenkin Demo" );
-        System.out.println( "Welcome to Jenkin Demo1" );
+        System.out.println( "Welcome to Jenkin integrate with github" );
     }
 }
